@@ -280,6 +280,7 @@ The application also generates personalized wellness suggestions based on user r
 ---
 
 ## 👨‍💻 Authors
+Hari Krishna, Pragnya Swaminathan
 
 Developed as part of a Machine Learning Project.
 
